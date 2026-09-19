@@ -1,4 +1,4 @@
-const message = "Hello from Branch B";
+const message = "Hello from Branch c";
 
 function greet() {
     console.log(message);
